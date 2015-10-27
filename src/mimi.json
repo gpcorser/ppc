@@ -1,0 +1,76 @@
+{
+    "mimi-types": [
+        {
+            "type":"php",
+            "file":"text-html.png"
+        },
+        {
+            "type": "zip",
+            "file": "application-7zip.png"
+        },
+        {
+            "type": "pdf",
+            "file": "pdf_icon48.png"
+        },
+        {
+            "type": "rtf",
+            "file": "application-rtf.png"
+        },
+        {
+            "type": "txt",
+            "file": "text.png"
+        },
+        {
+            "type": "svg",
+            "file": "svg.png"
+        },
+        {
+            "type": "html",
+            "file": "html.png"
+        },
+        {
+            "type": "mp3",
+            "file": "video.png"
+        },
+        {
+            "type": "mov",
+            "file": "video.png"
+        },
+        {
+            "type": "unknown",
+            "file": "unknown.png"
+        },
+        {
+            "type": "png",
+            "file": "image.png"
+        },
+        {
+            "type": "jpg",
+            "file": "image.png"
+        },
+        {
+            "type": "jpeg",
+            "file": "image.png"
+        },
+        {
+            "type": "gif",
+            "file": "image.png"
+        },
+        {
+            "type": "shortcut",
+            "file": "shellscript.png"
+        },
+        {
+            "type": "y-short",
+            "file": "youtube.png"
+        },
+        {
+			"type":"conf",
+			"file":"applications-system.png"
+        },
+        {
+			"type":"json",
+			"file":"applications-system.png"
+        }
+    ]
+}

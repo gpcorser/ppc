@@ -1,0 +1,16 @@
+{"image":
+  {"url":"http://svsu.edu/media/red_white_logo.png","width":"360px","height":"58px"},
+  "favorites":
+    [{"title":"PPC Access Memo","url":"../../files/PPC Access Memo.pdf"},
+	{"title":"PPC Instructions","url":"../../files/PPC Instructions.pdf"},
+    {"title":"PPC Table of Contents","url":"../../files/PPC Table of Contents.pdf"},
+    {"title":"Welcome Video","url":"../../files/Welcome Video.y-short"}
+    ],
+  "PPC":
+    [{"title":"Evaluations","url":"../../files/Evaluations"},
+	{"title":"Professional","url":"../../files/Professional"},
+    {"title":"Scholarship","url":"../../files/Scholarship"},
+    {"title":"Service","url":"../../files/Service"},
+    {"title":"Teaching","url":"../../files/Teaching"}
+    ]
+}
